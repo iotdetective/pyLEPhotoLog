@@ -82,6 +82,15 @@ The generated **Excel file** contains:
 
 ---
 
+## :computer: Screenshots
+![Screenshot From 2025-02-02 18-48-16](https://github.com/user-attachments/assets/7f1c79b6-2ec0-4cab-843e-daed3c8c5013)
+![Screenshot From 2025-02-02 18-49-00](https://github.com/user-attachments/assets/44cb7357-a400-4878-a0c2-1e91bccbf1d9)
+![Screenshot From 2025-02-02 18-49-26](https://github.com/user-attachments/assets/ce5703cc-52ab-480b-801a-ab04decfb184)
+![Screenshot From 2025-02-02 18-50-49](https://github.com/user-attachments/assets/2087841f-d929-4b38-953d-58a06f5d724b)
+![Screenshot From 2025-02-02 18-51-02](https://github.com/user-attachments/assets/53df321f-8864-49fa-9d6c-d9e25b14e76a)
+
+---
+
 ## 🔏 License
 This project is licensed under the **GNU General Public License v3.0**. See the [`LICENSE`](LICENSE) file for details.
 
